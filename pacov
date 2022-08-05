@@ -2,6 +2,7 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var proxy = "PROXY 10.127.96.149:10811; PROXY 10.127.97.48:10811;";
+var proxy_l = "PROXY 10.127.96.149:10080; PROXY 10.127.97.48:10080; DIRECT;";
 
 var rules = [
 //  "||mesu.apple,com",
@@ -4634,6 +4635,9 @@ for (var i = 0; i < rules.length; i++) {
 }
 
 function FindProxyForURL(url, host) {
+    if (shExpMatch(url, "*weixin.qq.com/*")) {
+        return proxy_l;
+    }
     if (defaultMatcher.matchesAny(url, host) instanceof BlockingFilter) {
         return proxy;
     }
