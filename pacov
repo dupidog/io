@@ -5,6 +5,7 @@ var proxy = "PROXY 10.127.96.149:10811; PROXY 10.127.97.48:10811;";
 var proxy_l = "PROXY 10.127.96.149:10080; PROXY 10.127.97.48:10080;";
 
 var rules_l = [
+  "*.kugou.com",
   "*.bilivideo.cn",
   "*.bilivideo.com",
   "*.hdslb.com",
