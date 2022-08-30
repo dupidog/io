@@ -10,6 +10,7 @@ var rules = [
 //  "p43-keyvalueservice.icloud.com",
 //  ".ls.apple.com",
 //  ".icloud-content.com",
+  "||ip.3322.org",
   "||amazon.co.jp",
   ".lsxszzg.com",
   "||btdig.com",
