@@ -2,7 +2,22 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var proxy = "PROXY 10.127.96.149:10811; PROXY 10.127.97.48:10811;";
-var proxy_l = "PROXY 10.127.96.149:10080; PROXY 10.127.97.48:10080; DIRECT;";
+var proxy_l = "PROXY 10.127.96.149:10080; PROXY 10.127.97.48:10080;";
+
+var rules_l = [
+  "||mesu.apple,com",
+  "||iphone-ld.apple.com",
+  "||gs-loc-cn.apple.com",
+  "*.apple.com",
+  "*.icloud-content.com",
+  "*.icloud.com",
+  "*.icloud.com.cn",
+  "*.weixin.qq.com",
+  "*.wx.qq.com",
+  "*.servicewechat.com",
+  "||weixin.qq.com",
+  "||wx.qq.com"
+];
 
 var rules = [
 //  "||mesu.apple,com",
@@ -4627,6 +4642,7 @@ CombinedMatcher.prototype = {
     }
 };
 var defaultMatcher = new CombinedMatcher();
+var defaultMatcher_l = new CombinedMatcher();
 
 var direct = 'DIRECT;';
 
@@ -4634,13 +4650,16 @@ for (var i = 0; i < rules.length; i++) {
     defaultMatcher.add(Filter.fromText(rules[i]));
 }
 
+for (var i = 0; i < rules_l.length; i++) {
+    defaultMatcher_l.add(Filter.fromText(rules_l[i]));
+}
+
 function FindProxyForURL(url, host) {
-    if (shExpMatch(url, "*weixin.qq.com*")) {
-        //return proxy_l;
-        return direct;
-    }
     if (defaultMatcher.matchesAny(url, host) instanceof BlockingFilter) {
         return proxy;
+    }
+    if (defaultMatcher_l.matchesAny(url, host) instanceof BlockingFilter) {
+        return proxy_l;
     }
     return direct;
 }
