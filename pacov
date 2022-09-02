@@ -5,24 +5,24 @@ var proxy = "PROXY 10.127.96.149:10811; PROXY 10.127.97.48:10811;";
 var proxy_l = "SOCKS 10.127.96.149:10080; SOCKS 10.127.97.48:10080;";
 
 var rules_l = [
-  "*.kugou.com",
-  "*.bilivideo.cn",
-  "*.bilivideo.com",
-  "*.hdslb.com",
-  "*.bilibili.com",
-  "*.biliapi.com",
-  "*.biliapi.net",
+  ".kugou.com",
+  ".bilivideo.cn",
+  ".bilivideo.com",
+  ".hdslb.com",
+  ".bilibili.com",
+  ".biliapi.com",
+  ".biliapi.net",
   "||mesu.apple,com",
   "||iphone-ld.apple.com",
   "||gs-loc-cn.apple.com",
-  "*.apple.com",
-  "*.icloud-content.com",
-  "*.icloud.com",
-  "*.icloud.com.cn",
-  "*.weixin.qq.com",
-  "*.wx.qq.com",
-  "*.servicewechat.com",
-  "*.qq.com"
+  ".apple.com",
+  ".icloud-content.com",
+  ".icloud.com",
+  ".icloud.com.cn",
+  ".weixin.qq.com",
+  ".wx.qq.com",
+  ".servicewechat.com",
+  ".qq.com"
 ];
 
 var rules = [
