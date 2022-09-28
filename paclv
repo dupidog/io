@@ -4,7 +4,7 @@
 var proxy = "PROXY 192.168.1.90:10811;";
 
 var rules = [
-//  "||mesu.apple,com",
+//  "||mesu.apple.com",
 //  "||iphone-ld.apple.com",
 //  "||gs-loc-cn.apple.com",
 //  "p43-keyvalueservice.icloud.com",

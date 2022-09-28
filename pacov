@@ -12,7 +12,7 @@ var rules_l = [
   ".bilibili.com",
   ".biliapi.com",
   ".biliapi.net",
-  "||mesu.apple,com",
+  "||mesu.apple.com",
   "||iphone-ld.apple.com",
   "||gs-loc-cn.apple.com",
   ".apple.com",
