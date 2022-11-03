@@ -225,6 +225,7 @@ var domains = {
   "google.co.kr": 1, 
   "facebook.com": 1, 
   "pornhub.com": 1, 
+  "phncdn.com": 1, 
   "tiltbrush.com": 1, 
   "telegramdownload.com": 1, 
   "kik.com": 1, 
