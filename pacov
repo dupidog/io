@@ -22,7 +22,8 @@ var rules_l = [
   ".weixin.qq.com",
   ".wx.qq.com",
   ".servicewechat.com",
-  ".qq.com"
+  ".qq.com",
+  ".live.com"
 ];
 
 var rules = [
