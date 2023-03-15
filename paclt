@@ -2,6 +2,7 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "bing.com": 1,
   "ip.3322.org": 1, 
   "chromium.org": 1, 
   "googledomains.com": 1, 
