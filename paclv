@@ -10,6 +10,7 @@ var rules = [
 //  "p43-keyvalueservice.icloud.com",
 //  ".ls.apple.com",
 //  ".icloud-content.com",
+  "||zyafa.in.ua",
   "||bing.com",
   ".bing.com",
   "||ip.3322.org",
