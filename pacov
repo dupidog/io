@@ -5,6 +5,7 @@ var proxy = "PROXY 192.168.137.1:10811; PROXY 10.127.96.149:10811; PROXY 10.127.
 var proxy_l = "SOCKS 192.168.137.1:10080; SOCKS 10.127.96.149:10080; SOCKS 10.127.97.48:10080;";
 
 var rules_l = [
+  "||192.168.1.99",
   ".kugou.com",
   ".bilivideo.cn",
   ".bilivideo.com",
