@@ -2,6 +2,7 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "thetvdb.com": 1,
   "btdig.com": 1,
   "hub.docker.com": 1,
   "zyafa.in.ua": 1,
