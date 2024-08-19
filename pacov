@@ -34,6 +34,7 @@ var rules = [
 //  "p43-keyvalueservice.icloud.com",
 //  ".ls.apple.com",
 //  ".icloud-content.com",
+  "chatgpt.com",
   "thetvdb.com",
   "btdig.com",
   "hub.docker.com",
