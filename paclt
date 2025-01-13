@@ -2,6 +2,7 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "plex.tv": 1,
   "chatgpt.com": 1,
   "thetvdb.com": 1,
   "btdig.com": 1,
