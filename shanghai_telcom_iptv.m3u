@@ -4,7 +4,7 @@ http://192.168.1.202:44022/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视",东方卫视
 http://192.168.1.202:44022/udp/239.45.3.146:5140
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视",东方卫视
-http://192.168.1.202:44022/udp/239.45.3.61:5140
+#http://192.168.1.202:44022/udp/239.45.3.61:5140
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="其他",都市剧场
 http://192.168.1.202:44022/udp/239.45.3.136:5140
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/上海都市.png" group-title="其他",都市频道
@@ -44,7 +44,7 @@ http://192.168.1.202:44022/udp/239.45.3.252:5140
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="其他",金鹰卡通
 http://192.168.1.202:44022/udp/239.45.0.38:5140
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="其他",金鹰卡通
-http://192.168.1.202:44022/udp/239.45.3.233:5140
+#http://192.168.1.202:44022/udp/239.45.3.233:5140
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/哈哈炫动.png" group-title="其他",哈哈炫动
 http://192.168.1.202:44022/udp/239.45.1.55:5140
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="其他",动漫秀场
@@ -78,51 +78,51 @@ http://192.168.1.202:44022/udp/239.45.1.28:5140
 #EXTINF:-1 tvg-id="BesTV百视通电影" tvg-name="BesTV百视通电影" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV百视通电影.png" group-title="其他",BesTV百视通电影
 http://192.168.1.202:44022/udp/239.45.1.15:5140
 #EXTINF:-1 tvg-id="BesTV百视通电影" tvg-name="BesTV百视通电影" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV百视通电影.png" group-title="其他",BesTV百视通电影
-http://192.168.1.202:44022/udp/239.45.3.240:5140
+#http://192.168.1.202:44022/udp/239.45.3.240:5140
 #EXTINF:-1 tvg-id="BesTV4k测试" tvg-name="BesTV4k测试" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV4K测试.png" group-title="其他",BesTV4k测试
 http://192.168.1.202:44022/udp/239.45.1.108:5140
 #EXTINF:-1 tvg-id="BesTV4k动画" tvg-name="BesTV4k动画" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV4K动画.png" group-title="其他",BesTV4k动画
 http://192.168.1.202:44022/udp/239.45.1.11:5140
 #EXTINF:-1 tvg-id="BesTV4k动画" tvg-name="BesTV4k动画" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV4K动画.png" group-title="其他",BesTV4k动画
-http://192.168.1.202:44022/udp/239.45.1.1:5140
+#http://192.168.1.202:44022/udp/239.45.1.1:5140
 #EXTINF:-1 tvg-id="BesTV4k电影" tvg-name="BesTV4k电影" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV4K电影.png" group-title="其他",BesTV4k电影
 http://192.168.1.202:44022/udp/239.45.3.107:5140
 #EXTINF:-1 tvg-id="BesTV4k电影" tvg-name="BesTV4k电影" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV4K电影.png" group-title="其他",BesTV4k电影
 http://192.168.1.202:44022/udp/239.45.1.42:5140
 #EXTINF:-1 tvg-id="BesTV4k电影" tvg-name="BesTV4k电影" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV4K电影.png" group-title="其他",BesTV4k电影
-http://192.168.1.202:44022/udp/239.45.1.9:5140
+#http://192.168.1.202:44022/udp/239.45.1.9:5140
 #EXTINF:-1 tvg-id="BesTV4k记录" tvg-name="BesTV4k记录" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV4K记录.png" group-title="其他",BesTV4k记录
 http://192.168.1.202:44022/udp/239.45.1.10:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV.png" group-title="其他",BesTV
-http://192.168.1.202:44022/udp/239.45.3.137:5140
+#http://192.168.1.202:44022/udp/239.45.3.137:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV.png" group-title="其他",BesTV
-http://192.168.1.202:44022/udp/239.45.3.216:5140
+#http://192.168.1.202:44022/udp/239.45.3.216:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV.png" group-title="其他",BesTV
-http://192.168.1.202:44022/udp/239.45.3.138:5140
+#http://192.168.1.202:44022/udp/239.45.3.138:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV.png" group-title="其他",BesTV
-http://192.168.1.202:44022/udp/239.45.3.54:5140
+#http://192.168.1.202:44022/udp/239.45.3.54:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV.png" group-title="其他",BesTV
-http://192.168.1.202:44022/udp/239.45.3.55:5140
+#http://192.168.1.202:44022/udp/239.45.3.55:5140
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视",CCTV1
 http://192.168.1.202:44022/udp/239.45.3.88:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV.png" group-title="其他",BesTV
-http://192.168.1.202:44022/udp/239.45.3.215:5140
+#http://192.168.1.202:44022/udp/239.45.3.215:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV.png" group-title="其他",BesTV
-http://192.168.1.202:44022/udp/239.45.3.140:5140
+#http://192.168.1.202:44022/udp/239.45.3.140:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV.png" group-title="其他",BesTV
-http://192.168.1.202:44022/udp/239.45.3.53:5140
+#http://192.168.1.202:44022/udp/239.45.3.53:5140
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/BESTV.png" group-title="其他",BesTV
-http://192.168.1.202:44022/udp/239.45.3.139:5140
+#http://192.168.1.202:44022/udp/239.45.3.139:5140
 #EXTINF:-1 tvg-id="无名频道" tvg-name="无名频道" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/无名.png" group-title="其他",无名频道
 http://192.168.1.202:44022/udp/239.45.1.8:5140
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视",CCTV1
-http://192.168.1.202:44022/udp/239.45.3.145:5140
+#http://192.168.1.202:44022/udp/239.45.3.145:5140
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视",CCTV1
-http://192.168.1.202:44022/udp/239.45.3.51:5140
+#http://192.168.1.202:44022/udp/239.45.3.51:5140
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视",CCTV2
 http://192.168.1.202:44022/udp/239.45.3.208:5140
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视",CCTV2
-http://192.168.1.202:44022/udp/239.45.0.1:5140
+#http://192.168.1.202:44022/udp/239.45.0.1:5140
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视",CCTV3
 http://192.168.1.202:44022/udp/239.45.1.68:5140
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视",CCTV4
@@ -146,25 +146,25 @@ http://192.168.1.202:44022/udp/239.45.0.18:5140
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视",CCTV12
 http://192.168.1.202:44022/udp/239.45.3.124:5140
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视",CCTV12
-http://192.168.1.202:44022/udp/239.45.3.10:5140
+#http://192.168.1.202:44022/udp/239.45.3.10:5140
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视",CCTV13
 http://192.168.1.202:44022/udp/239.45.0.19:5140
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视",CCTV14
 http://192.168.1.202:44022/udp/239.45.3.125:5140
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视",CCTV14
-http://192.168.1.202:44022/udp/239.45.3.23:5140
+#http://192.168.1.202:44022/udp/239.45.3.23:5140
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视",CCTV15
 http://192.168.1.202:44022/udp/239.45.3.126:5140
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视",CCTV15
-http://192.168.1.202:44022/udp/239.45.0.20:5140
+#http://192.168.1.202:44022/udp/239.45.0.20:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视",CCTV16
 http://192.168.1.202:44022/udp/239.45.0.10:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视",CCTV16
-http://192.168.1.202:44022/udp/239.45.0.12:5140
+#http://192.168.1.202:44022/udp/239.45.0.12:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视",CCTV17
 http://192.168.1.202:44022/udp/239.45.3.251:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视",CCTV17
-http://192.168.1.202:44022/udp/239.45.3.52:5140
+#http://192.168.1.202:44022/udp/239.45.3.52:5140
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="央视",CGTN
 http://192.168.1.202:44022/udp/239.45.1.194:5140
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/中国天气.png" group-title="其他",中国天气
@@ -172,11 +172,11 @@ http://192.168.1.202:44022/udp/239.45.1.47:5140
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="其他",CHC家庭
 http://192.168.1.202:44022/udp/239.45.1.22:5140
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="其他",CHC家庭
-http://192.168.1.202:44022/udp/239.45.0.40:5140
+#http://192.168.1.202:44022/udp/239.45.0.40:5140
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="其他",CHC动作
 http://192.168.1.202:44022/udp/239.45.0.41:5140
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="其他",CHC高清
-http://192.168.1.202:44022/udp/239.45.0.42:5140
+#http://192.168.1.202:44022/udp/239.45.0.42:5140
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="央视",CCTV4k超高清
 http://192.168.1.202:44022/udp/239.45.0.55:5140
 #EXTINF:-1 tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/江西电视指南.png" group-title="央视",CCTV电视指南
@@ -184,13 +184,13 @@ http://192.168.1.202:44022/udp/239.45.1.73:5140
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视",CCTV风云足球
 http://192.168.1.202:44022/udp/239.45.0.43:5140
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视",CCTV风云足球
-http://192.168.1.202:44022/udp/239.45.1.75:5140
+#http://192.168.1.202:44022/udp/239.45.1.75:5140
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视",CCTV央视台球
 http://192.168.1.202:44022/udp/239.45.0.44:5140
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="央视",CCTV兵器科技
 http://192.168.1.202:44022/udp/239.45.0.45:5140
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="央视",CCTV兵器科技
-http://192.168.1.202:44022/udp/239.45.1.74:5140
+#http://192.168.1.202:44022/udp/239.45.1.74:5140
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/世界地理.png" group-title="央视",CCTV世界地理
 http://192.168.1.202:44022/udp/239.45.0.46:5140
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视",CCTV女性时尚
@@ -198,7 +198,7 @@ http://192.168.1.202:44022/udp/239.45.0.47:5140
 #EXTINF:-1 tvg-id="CCTV高网" tvg-name="CCTV高网" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV高网.png" group-title="央视",CCTV高网
 http://192.168.1.202:44022/udp/239.45.0.48:5140
 #EXTINF:-1 tvg-id="CCTV高网" tvg-name="CCTV高网" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV高网.png" group-title="央视",CCTV高网
-http://192.168.1.202:44022/udp/239.45.1.72:5140
+#http://192.168.1.202:44022/udp/239.45.1.72:5140
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视",CCTV怀旧剧场
 http://192.168.1.202:44022/udp/239.45.0.49:5140
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视",CCTV风云剧场
@@ -210,7 +210,7 @@ http://192.168.1.202:44022/udp/239.45.0.52:5140
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="央视",CCTV文化精品
 http://192.168.1.202:44022/udp/239.45.0.53:5140
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="央视",CCTV文化精品
-http://192.168.1.202:44022/udp/239.45.1.17:5140
+#http://192.168.1.202:44022/udp/239.45.1.17:5140
 #EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/早期教育.png" group-title="其他",CETV早期教育
 http://192.168.1.202:44022/udp/239.45.0.54:5140
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="其他",CETV1
@@ -220,11 +220,11 @@ http://192.168.1.202:44022/udp/239.45.1.52:5140
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="其他",CETV4
 http://192.168.1.202:44022/udp/239.45.0.21:5140
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="其他",CETV4
-http://192.168.1.202:44022/udp/239.45.1.243:5140
+#http://192.168.1.202:44022/udp/239.45.1.243:5140
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视",安徽卫视
 http://192.168.1.202:44022/udp/239.45.3.143:5140
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视",安徽卫视
-http://192.168.1.202:44022/udp/239.45.1.120:5140
+#http://192.168.1.202:44022/udp/239.45.1.120:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.1.202:44022/udp/239.45.3.229:5140
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="卫视",兵团卫视
