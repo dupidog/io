@@ -16,7 +16,7 @@ http://192.168.1.202:44022/udp/233.18.204.45:5140
 http://192.168.1.202:44022/udp/233.18.204.50:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/欢笑剧场.png" group-title="超高清",欢笑剧场4K
 http://192.168.1.202:44022/udp/233.18.204.115:5140
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/欢笑剧场.png" group-title="超高清",欢笑剧场4K
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/欢笑剧场.png" group-title="超高清",欢笑剧场4K HDR
 http://192.168.1.202:44022/udp/233.18.204.205:5140
 #EXTINF:-1 tvg-id="东方影视" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/东方影视.png" group-title="影视",东方影视
 http://192.168.1.202:44022/udp/233.18.204.55:5140
@@ -62,8 +62,8 @@ http://192.168.1.202:44022/udp/233.18.204.188:5140
 http://192.168.1.202:44022/udp/233.18.204.204:5140
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/CCTV-1.png" group-title="综合",CCTV-1
 http://192.168.1.202:44022/udp/233.18.204.52:5140
-#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/CCTV-1.png" group-title="综合",CCTV-1
-http://192.168.1.202:44022/udp/233.18.204.168:5140
+##EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/CCTV-1.png" group-title="综合",CCTV-1
+#http://192.168.1.202:44022/udp/233.18.204.168:5140
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/CCTV-2.png" group-title="财经",CCTV-2
 http://192.168.1.202:44022/udp/233.18.204.68:5140
 #EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://gh.dupidog.cn/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/CCTV-3.png" group-title="娱乐",CCTV-3
