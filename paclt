@@ -2,6 +2,9 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "featureassets.org": 1,
+  "grok.com": 1,
+  "x.com": 1,
   "x.ai": 1,
   "plex.tv": 1,
   "chatgpt.com": 1,
